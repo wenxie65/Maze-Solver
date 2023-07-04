@@ -6,7 +6,7 @@ This project implements various maze solver algorithm in Python. It provides a s
 ## Repository Contents
 - [x] `maze_solver.ipynb`: A Jupyter Notebook that includes tests for each maze solving algorithm.
 - [x] `dfs.ipynb`: A Jupyter Notebook that includes the implementation of maze-solving algoirthm using Depth-First Search (DFS).
-- [ ] `bfs.ipynb`: A Jupyter Notebook that includes the implementation of maze-solving algoirthm using Breadth-First Search (BFS).
+- [x] `bfs.ipynb`: A Jupyter Notebook that includes the implementation of maze-solving algoirthm using Breadth-First Search (BFS).
 - [ ] `dijkstra.ipynb`: A Jupyter Notebook that includes the implementation of maze-solving algoirthm using Dijkstra's Algorithm.
 - [ ] `a_search.ipynb`: A Jupyter Notebook that includes the implementation of maze-solving algoirthm using A* Search Algorithm.
 - [ ] `dead_end.ipynb`: A Jupyter Notebook that includes the implementation of maze-solving algoirthm using Dead-End Filling.
@@ -15,7 +15,7 @@ This project implements various maze solver algorithm in Python. It provides a s
 ## Algorithms
 This project includes the following algorithms for solving mazes:
 - [x] Depth-First Search (DFS)
-- [ ] Breadth-First Search (BFS)
+- [x] Breadth-First Search (BFS)
 - [ ] Dijkstra's Algorithm
 - [ ] A* Search Algorithm
 - [ ] Dead-End Filling
